@@ -4,7 +4,7 @@ Meus exercícios em Java com o aprendizado do curso do Prof. Nelio Alves, o "Cur
 
 ## Separados pelos Blocos;
 
-  ### Bloco de Programação
+  ### Bloco Lógica de Programação
   
   - Conceitos de programação
   - Introdução à linguagem Java
