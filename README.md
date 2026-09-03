@@ -2,9 +2,9 @@
 
 Meus exercícios em Java com o aprendizado do curso do Prof. Nelio Alves, o "Curso Java COMPLETO Programação Orientada a Objetos".
 
-Separados pelos Blocos;
+## Separados pelos Blocos;
 
-  Bloco de Programação
+  ### Bloco de Programação
   
   - Conceitos de programação
   - Introdução à linguagem Java
@@ -13,7 +13,7 @@ Separados pelos Blocos;
   - Estruturas repetitivas
   - Outros tópicos básicos em Java
 ###
-  Bloco Programação Orientada a Objetos
+  ### Bloco Programação Orientada a Objetos
 
   - Introdução à Programação Orientada a Objetos
   - Construtores, this, sobrecarga, encapsulamento
