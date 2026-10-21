@@ -2,7 +2,7 @@ package entities;
 
 public class Employee {
 
-	public String nam;
+	public String name;
 	public double grossSalary;
 	public double tax;
 	
